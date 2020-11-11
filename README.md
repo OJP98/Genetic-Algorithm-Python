@@ -17,7 +17,7 @@ You can run the python script online with the following link:
 ### Installation
 
 1. Clone this repository and access it with your favorite terminal.
-2. Run `pip install -R requirements.txt`
+2. Run `pip install -R requirements.txt`.
 3. Execute the main script.
 
 ## Developers
